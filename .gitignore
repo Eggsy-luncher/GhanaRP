@@ -1,1 +1,14 @@
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Obj/
+MemoryCaptures/
 
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
